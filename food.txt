@@ -2,3 +2,5 @@ name:prathamesh mhatre
 fav. food: franky
 name:deepak patil
 fav.food:Pav Bhaji
+name: AVADHUTZ KONEKARZ
+FAV: SHWARMA
